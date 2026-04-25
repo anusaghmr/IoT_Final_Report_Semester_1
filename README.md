@@ -6,14 +6,6 @@ It includes documentation, concepts, and implementation details related to IoT s
 
 ---
 
-## 📂 Project Structure
-IoT_Final_Report_Semester_1/
-│
-├── IoT_Semester_1/ # Contains project/report files
-├── README.md # Project documentation
-
----
-
 ## 🎯 Objectives
 - Understand the fundamentals of IoT  
 - Learn about sensors, devices, and connectivity  
