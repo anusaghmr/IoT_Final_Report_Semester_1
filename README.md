@@ -1,4 +1,4 @@
-# 🌐 IoT Final Report – Semester 1
+# IoT Final Report – Semester 1
 
 ## 📌 Overview
 This repository contains my **IoT (Internet of Things) Final Report for Semester 1**.  
