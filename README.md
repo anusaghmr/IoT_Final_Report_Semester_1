@@ -1,12 +1,12 @@
 # IoT Final Report – Semester 1
 
-## 📌 Overview
+## Overview
 This repository contains my **IoT (Internet of Things) Final Report for Semester 1**.  
 It includes documentation, concepts, and implementation details related to IoT systems studied during the semester.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Understand the fundamentals of IoT  
 - Learn about sensors, devices, and connectivity  
 - Analyze real-world IoT applications  
@@ -14,7 +14,7 @@ It includes documentation, concepts, and implementation details related to IoT s
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 - Introduction to IoT  
 - IoT Architecture  
 - Sensors and Actuators  
@@ -24,33 +24,27 @@ It includes documentation, concepts, and implementation details related to IoT s
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Basic IoT Concepts  
 - Documentation tools (MS Word / PDF)  
 - (Optional: Arduino, Raspberry Pi, etc.)
 
 ---
 
-## 📊 Key Learnings
+## Key Learnings
 - How IoT systems are designed and implemented  
 - Importance of data collection and connectivity  
 - Real-world use cases like smart homes and healthcare  
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add practical implementation (hardware-based project)  
 - Integrate real-time data monitoring  
 - Explore cloud-based IoT platforms  
 
 ---
 
-## 👩‍💻 Author
-**Anusha Ghimire**  
-BSc CSIT – Semester 1  
-
----
-
-## 📎 Note
+## Note
 This repository is created for academic purposes and showcases my learning progress in IoT.
 
